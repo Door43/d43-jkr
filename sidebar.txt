@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jkr:home|Door43 (jkr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jkr|d43-jkr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jkr/archive/master.zip|d43-jkr.zip]]
+
+**Recent Changes**
+{{changes>ns = jkr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jkr|Ethnologue data]]
+
